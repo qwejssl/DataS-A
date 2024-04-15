@@ -62,7 +62,7 @@ namespace WindowsFormsApp1
         {
             if (StyleBindingList.Any(s => s.Id == int.Parse(IDBox.Text)))
             {
-                MessageBox.Show("ID shoud be unique.");
+                MessageBox.Show("ID should be unique.");
                 return;
             }
             StyleBindingList.Add(new Style
