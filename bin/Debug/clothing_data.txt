@@ -1,0 +1,2 @@
+1|Type|Cut|Color|Fabric|Brand|3|
+3|Type|Cut|Color|Fabric|Brand|33|
